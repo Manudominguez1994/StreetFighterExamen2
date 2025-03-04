@@ -36,7 +36,7 @@ h2{
 .cabeceraTabla{
     font-size: 40px;
     color: whitesmoke;
-    background-image:url(/img/fondocabecera.jpg);
+    background-image:url(img/fondocabecera.jpg);
     opacity: 0.5;
 }
 td, tr{
