@@ -1,7 +1,7 @@
 /* Importar letra */
 @font-face {
     font-family: "Street";
-    src: url(/fonts/street.otf);
+    src: url(fonts/street.otf);
 }
 
 body{
